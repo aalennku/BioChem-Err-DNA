@@ -16,7 +16,7 @@ A neural network tried to model the errors that happened in biochemical manipula
 If this code is helpful to you, maybe you wanna take a look at
 
     @article{9453168,
-    author={Guo, Jiaxiang and Qi, Hao},
+    author={Guo, Alan J.X. and Qi, Hao},
     journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 
     title={Using Artificial Neural Networks to Model Errors in Biochemical Manipulation of DNA Molecules}, 
     year={2021},
